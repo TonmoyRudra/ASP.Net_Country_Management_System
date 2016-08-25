@@ -1,0 +1,3 @@
+SELECT  Countrys.CountryName, Countrys.CountryAbout 
+FROM Citys JOIN Countrys ON Citys.CountryId= Countrys.Id WHERE  Countrys.CountryName LIKE '%us%' 
+SELECT  COUNT(Citys.CityName) AS CityName FROM Citys JOIN Countrys ON Citys.CountryId=Countrys.Id WHERE Countrys.CountryName LIKE '%us%'

@@ -1,0 +1,502 @@
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\CountryAndCityAPP.dll.config
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\CountryAndCityAPP.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\CountryAndCityAPP.pdb
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\AjaxControlToolkit.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\Microsoft.WindowsAzure.Storage.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\HtmlAgilityPack.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\AjaxMin.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\Microsoft.Data.OData.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\Microsoft.Data.Edm.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\System.Spatial.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\AjaxControlToolkit.pdb
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\Microsoft.WindowsAzure.Storage.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\Microsoft.Data.OData.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\Microsoft.Data.Edm.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\System.Spatial.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\ar\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\cs\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\de\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\es\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\fr\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\he\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\hi\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\it\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\ja\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\ko\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\nl\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\pl\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\pt\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\ru\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\de\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\es\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\fr\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\it\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\ja\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\ko\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\ru\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\de\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\es\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\it\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\de\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\es\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\fr\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\it\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\ja\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\ko\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\ru\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\zh-Hans\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\bin\zh-Hant\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.csprojResolveAssemblyReference.cache
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.pdb
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryAndCityAPP\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.dll.licenses
+G:\CountryManagementSystem\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.csprojResolveAssemblyReference.cache
+G:\CountryManagementSystem\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.dll.licenses
+G:\CountryManagementSystem\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.dll
+G:\CountryManagementSystem\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.pdb
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.csprojResolveAssemblyReference.cache
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.dll.licenses
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.pdb
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\CountryAndCityAPP.dll.config
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\CountryAndCityAPP.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\CountryAndCityAPP.pdb
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\Microsoft.WindowsAzure.Storage.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\HtmlAgilityPack.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\AjaxMin.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\Microsoft.Data.OData.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\Microsoft.Data.Edm.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\System.Spatial.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\AjaxControlToolkit.pdb
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\Microsoft.WindowsAzure.Storage.xml
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\Microsoft.Data.OData.xml
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\Microsoft.Data.Edm.xml
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\System.Spatial.xml
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\ar\AjaxControlToolkit.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\cs\AjaxControlToolkit.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\de\AjaxControlToolkit.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\es\AjaxControlToolkit.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\fr\AjaxControlToolkit.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\he\AjaxControlToolkit.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\hi\AjaxControlToolkit.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\it\AjaxControlToolkit.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\ja\AjaxControlToolkit.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\ko\AjaxControlToolkit.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\nl\AjaxControlToolkit.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\pl\AjaxControlToolkit.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\pt\AjaxControlToolkit.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\ru\AjaxControlToolkit.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\de\Microsoft.Data.OData.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\es\Microsoft.Data.OData.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\fr\Microsoft.Data.OData.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\it\Microsoft.Data.OData.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\ja\Microsoft.Data.OData.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\ko\Microsoft.Data.OData.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\ru\Microsoft.Data.OData.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\de\Microsoft.Data.Edm.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\es\Microsoft.Data.Edm.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\it\Microsoft.Data.Edm.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\de\System.Spatial.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\es\System.Spatial.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\fr\System.Spatial.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\it\System.Spatial.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\ja\System.Spatial.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\ko\System.Spatial.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\ru\System.Spatial.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\zh-Hans\System.Spatial.resources.dll
+D:\122481-Tonmoy Rudra\CountryManagementSystem\CountryAndCityAPP\bin\zh-Hant\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\CountryAndCityAPP.dll.config
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\CountryAndCityAPP.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\CountryAndCityAPP.pdb
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\AjaxControlToolkit.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\Microsoft.WindowsAzure.Storage.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\HtmlAgilityPack.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\AjaxMin.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\Microsoft.Data.OData.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\Microsoft.Data.Edm.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\System.Spatial.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\AjaxControlToolkit.pdb
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\Microsoft.WindowsAzure.Storage.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\Microsoft.Data.OData.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\Microsoft.Data.Edm.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\System.Spatial.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\ar\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\cs\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\de\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\es\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\fr\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\he\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\hi\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\it\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\ja\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\ko\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\nl\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\pl\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\pt\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\ru\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\de\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\es\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\fr\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\it\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\ja\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\ko\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\ru\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\de\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\es\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\it\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\de\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\es\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\fr\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\it\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\ja\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\ko\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\ru\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\zh-Hans\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\bin\zh-Hant\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.csprojResolveAssemblyReference.cache
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.dll.licenses
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystem\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.pdb
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\CountryAndCityAPP.dll.config
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\CountryAndCityAPP.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\CountryAndCityAPP.pdb
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.WindowsAzure.Storage.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\HtmlAgilityPack.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\AjaxMin.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.Data.OData.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.Data.Edm.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\System.Spatial.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\AjaxControlToolkit.pdb
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.WindowsAzure.Storage.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.Data.OData.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.Data.Edm.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\System.Spatial.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\ar\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\cs\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\de\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\es\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\fr\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\he\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\hi\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\it\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\ja\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\ko\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\nl\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\pl\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\pt\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\ru\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\de\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\es\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\fr\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\it\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\ja\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\ko\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\ru\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\de\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\es\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\it\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\de\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\es\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\fr\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\it\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\ja\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\ko\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\ru\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hans\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hant\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.csprojResolveAssemblyReference.cache
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.dll.licenses
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\CountryManagementSystemNew\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.pdb
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\CountryAndCityAPP.dll.config
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\CountryAndCityAPP.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\CountryAndCityAPP.pdb
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.WindowsAzure.Storage.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\HtmlAgilityPack.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\AjaxMin.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.Data.OData.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.Data.Edm.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\System.Spatial.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\AjaxControlToolkit.pdb
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.WindowsAzure.Storage.xml
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.Data.OData.xml
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.Data.Edm.xml
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\System.Spatial.xml
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\ar\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\cs\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\de\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\es\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\fr\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\he\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\hi\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\it\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\ja\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\ko\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\nl\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\pl\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\pt\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\ru\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\de\Microsoft.Data.OData.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\es\Microsoft.Data.OData.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\fr\Microsoft.Data.OData.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\it\Microsoft.Data.OData.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\ja\Microsoft.Data.OData.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\ko\Microsoft.Data.OData.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\ru\Microsoft.Data.OData.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\de\Microsoft.Data.Edm.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\es\Microsoft.Data.Edm.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\it\Microsoft.Data.Edm.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\de\System.Spatial.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\es\System.Spatial.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\fr\System.Spatial.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\it\System.Spatial.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\ja\System.Spatial.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\ko\System.Spatial.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\ru\System.Spatial.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hans\System.Spatial.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hant\System.Spatial.resources.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.csprojResolveAssemblyReference.cache
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.dll.licenses
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.dll
+D:\DOTNet b20 tonmoy\CountryManagementSystemNew\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.pdb
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.csprojResolveAssemblyReference.cache
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.dll.licenses
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\CountryAndCityAPP.dll.config
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\CountryAndCityAPP.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\CountryAndCityAPP.pdb
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.WindowsAzure.Storage.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\HtmlAgilityPack.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\AjaxMin.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.Data.OData.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.Data.Edm.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\System.Spatial.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\AjaxControlToolkit.pdb
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.WindowsAzure.Storage.xml
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.Data.OData.xml
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.Data.Edm.xml
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\System.Spatial.xml
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\ar\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\cs\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\de\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\es\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\fr\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\he\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\hi\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\it\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\ja\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\ko\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\nl\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\pl\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\pt\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\ru\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\de\Microsoft.Data.OData.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\es\Microsoft.Data.OData.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\fr\Microsoft.Data.OData.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\it\Microsoft.Data.OData.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\ja\Microsoft.Data.OData.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\ko\Microsoft.Data.OData.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\ru\Microsoft.Data.OData.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\de\Microsoft.Data.Edm.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\es\Microsoft.Data.Edm.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\it\Microsoft.Data.Edm.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\de\System.Spatial.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\es\System.Spatial.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\fr\System.Spatial.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\it\System.Spatial.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\ja\System.Spatial.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\ko\System.Spatial.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\ru\System.Spatial.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hans\System.Spatial.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hant\System.Spatial.resources.dll
+D:\DOTNet b20 tonmoy\New folder\CountryManagementSystemNew\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.pdb
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\CountryAndCityAPP.dll.config
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\CountryAndCityAPP.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\CountryAndCityAPP.pdb
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.WindowsAzure.Storage.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\HtmlAgilityPack.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\AjaxMin.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.Data.OData.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.Data.Edm.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\System.Spatial.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\AjaxControlToolkit.pdb
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.WindowsAzure.Storage.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.Data.OData.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.Data.Edm.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\System.Spatial.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\ar\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\cs\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\de\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\es\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\fr\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\he\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\hi\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\it\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\ja\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\ko\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\nl\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\pl\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\pt\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\ru\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\de\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\es\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\fr\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\it\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\ja\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\ko\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\ru\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\de\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\es\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\it\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\de\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\es\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\fr\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\it\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\ja\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\ko\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\ru\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hans\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hant\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.csprojResolveAssemblyReference.cache
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.dll.licenses
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.pdb
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\CountryAndCityAPP.dll.config
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\CountryAndCityAPP.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\CountryAndCityAPP.pdb
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.WindowsAzure.Storage.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\HtmlAgilityPack.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\AjaxMin.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.Data.OData.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.Data.Edm.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\System.Spatial.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\AjaxControlToolkit.pdb
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.WindowsAzure.Storage.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.Data.OData.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\Microsoft.Data.Edm.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\System.Spatial.xml
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\ar\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\cs\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\de\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\es\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\fr\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\he\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\hi\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\it\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\ja\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\ko\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\nl\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\pl\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\pt\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\ru\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\de\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\es\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\fr\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\it\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\ja\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\ko\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\ru\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\de\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\es\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\it\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\de\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\es\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\fr\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\it\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\ja\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\ko\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\ru\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hans\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\bin\zh-Hant\System.Spatial.resources.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.csprojResolveAssemblyReference.cache
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.dll.licenses
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.dll
+D:\BITM-SEIP-DOTNET-BATCH-20\Practise Home\Project 1 Bitm\CountryManagementSystemNew\CountryAndCityAPP\obj\Debug\CountryAndCityAPP.pdb

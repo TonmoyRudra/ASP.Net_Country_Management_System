@@ -1,0 +1,94 @@
+﻿body {
+    background: url("../Image/wm3.jpg") center;
+    	background-attachment: fixed;
+
+}
+
+.blank {
+    background: url("../Image/wm3.jpg") bottom;
+     
+}
+.wholepage {
+    width: 1000px;
+    margin: 50px auto;
+   
+}
+
+.Header {
+    color: #F70606;
+    font-size: 22px;
+    text-align: center;
+     
+   
+}
+
+.Header h1 {
+    background: url("../Image/wm3.jpg") bottom;
+
+    border-radius: 10px;
+     text-shadow: 3px 2px 2px white;
+    
+}
+
+.footer h2 {
+   background: url("../Image/wm3.jpg") bottom;
+    color: red;
+    border-radius: 10px;
+     text-shadow: 2px 2px 5px black; 
+}
+
+
+.menuUl {
+    list-style-type: none;
+    margin: 0;
+    margin-bottom: 10px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    border-radius: 10px;
+}
+
+    .menuUl li {
+        float: left;
+        
+    }
+
+        .menuUl li a {
+            display: block;
+            font-weight: bold;
+            font-size: 20px;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            border-right: 3px solid white;
+        }
+
+            .menuUl li a:hover {
+                background-color: #B8B8B8;
+                color: black;
+            }
+
+            .menuUl li a.active {
+                color: white;
+                background-color: #4CAF50;
+            }
+
+.auto-style1 {
+    width: 206px;
+}
+
+.td1 {
+    color: white;
+    font-size: 18px;
+}
+
+.td2 {
+    color: white;
+    font-size: 24px;
+}
+
+.footer {
+    font-size: 15px;
+    text-align: center;
+}
